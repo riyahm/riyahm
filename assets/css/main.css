@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #1e8bc3;
+			color: #aeb1bd;
 		}
 
 		.icon.style2 {
-			color: #6bb9f0;
+			color: #bbbcbd;
 		}
 
 		.icon.style3 {
-			color: #96cbf7;
+			color: #dcdde1;
 		}
 
 /* Image */
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #81cfe0;
+				color: #c9cacc;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #34495e;
+			background-color: #273c75;
 			color: #c8ece9;
 		}
 
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #2b343d;
+			background-color: #273c75;
 			color: #d3d4e4;
 		}
 
